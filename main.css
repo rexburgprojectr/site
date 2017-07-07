@@ -1,0 +1,43 @@
+/*My stylesheet*/
+
+div#title {
+    position:absolute;
+    border-style:solid;
+    width:700px;
+    height:150px;
+    top:10px;
+    left:200px;
+}
+
+div#navigation {
+    position:absolute;
+    border-style:solid;
+    width:700px;
+    height:30px;
+    top:170px;
+    left:200px;
+}
+
+div#mypicture {
+    position:absolute;
+    width:100px;
+    top:210px;
+    left:200px;
+}
+
+
+div#photomessage {
+    position:absolute;
+    width:360px;
+    top:210px;
+    left:540px;
+}
+
+div#welcomemessage {
+    position:absolute;
+    width:360px;
+    top:210px;
+    left:540px;
+}
+
+
