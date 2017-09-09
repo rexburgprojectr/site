@@ -13,7 +13,7 @@ div#navigation {
     position:absolute;
     border-style:solid;
     width:700px;
-    height:30px;
+    height:80px;
     top:170px;
     left:200px;
 }
@@ -39,4 +39,24 @@ div#welcomemessage {
     left:540px;
 }
 
+div#about {
+    position:absolute; 
+    width:700px;
+    top:260px;
+    left:200px;
+}
+
+div#speakingPartners {
+    position:absolute; 
+    width:700px;
+    top:260px;
+    left:200px;
+}
+
+div#mentoring {
+    position:absolute; 
+    width:700px;
+    top:260px;
+    left:200px;
+}
 
